@@ -31,4 +31,4 @@ Live weather and air quality data is fetched using OpenWeather APIs.
 3. Install required libraries:
    ```bash
    pip install pandas numpy scikit-learn requests
-af30663fb0877ac39823e646c9aff290
+Api key:af30663fb0877ac39823e646c9aff290
